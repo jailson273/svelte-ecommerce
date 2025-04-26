@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"EditorConfig.EditorConfig",
+		"esbenp.prettier-vscode",
+		"bradlc.vscode-tailwindcss",
+		"ms-azuretools.vscode-docker",
+		"svelte.svelte-vscode",
+		"naumovs.color-highlight"
+	]
+}
