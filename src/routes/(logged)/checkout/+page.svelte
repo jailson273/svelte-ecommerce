@@ -139,6 +139,8 @@
 
 		loading = false;
 
+    
+
 		goto(`/checkout/${order.id}`);
 	}
 
