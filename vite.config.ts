@@ -6,7 +6,9 @@ export default defineConfig({
 	plugins: [tailwindcss(), sveltekit()],
 	server: {
 		server: {
-			allowedHosts: true
+			host: '0.0.0.0',
+			port: 5173,
+			allowedHosts: ['srv704157.hstgr.cloud']
 		},
 		watch: {
 			ignored: ['./db.json']
